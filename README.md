@@ -2,6 +2,8 @@
 
 A modern, full-stack browser gaming platform featuring an endless runner game built with React, Phaser 3, and Supabase.
 
+🌐 **Live Demo**: [https://game-verse-net.lovable.app](https://game-verse-net.lovable.app)
+
 ## 🎮 Features
 
 - **Endless Runner Game**: Dodge obstacles and compete for high scores
@@ -29,8 +31,8 @@ A modern, full-stack browser gaming platform featuring an endless runner game bu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/IshaanGhost/neon-void-frame.git
-   cd neon-void-frame
+   git clone https://github.com/IshaanGhost/game-verse.git
+   cd game-verse
    ```
 
 2. **Install dependencies**
@@ -75,7 +77,7 @@ A modern, full-stack browser gaming platform featuring an endless runner game bu
 ## 📁 Project Structure
 
 ```
-neon-void-frame/
+game-verse/
 ├── public/              # Static assets
 │   ├── favicon.svg      # Website icon
 │   └── robots.txt
